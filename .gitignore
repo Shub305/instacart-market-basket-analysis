@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.DS_Store
+Thumbs.db
+
+# Ignore raw data files (recommended if they are large)
+data/raw/*.csv
+
+# Optional: ignore large exports if they get too big
+# outputs/tables/*.csv
+# outputs/mba_results/*.csv
