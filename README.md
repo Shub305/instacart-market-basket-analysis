@@ -86,7 +86,7 @@ The following files were used:
 
 ### Top 10 Purchased Products
 
-[Top Products](images/top_10_purchased_products.png)
+🔗[Top Products](images/top_10_purchased_products.png)
 
 * Bananas, organic strawberries, and bagged organic salad greens are the most frequently purchased items overall, highlighting the dominance of fresh produce in customer baskets.
 
@@ -94,7 +94,7 @@ The following files were used:
 
 ### Orders by Hour
 
-[Orders by Hour](images/orders_by_hour.png)
+🔗[Orders by Hour](images/orders_by_hour.png)
 
 * Order volume peaks between **10 AM and 3 PM**, with activity dropping sharply overnight — useful for staffing and delivery capacity planning.
 
@@ -102,7 +102,7 @@ The following files were used:
 
 ### Reorder Rate
 
-[Reorder Rate](images/reorder_rate_by_products.png)
+🔗[Reorder Rate](images/reorder_rate_by_products.png)
 
 * Products like **Chocolate Love Bar** and **Maca Buttercups** show reorder rates above 90%, indicating strong customer loyalty and repeat-purchase behavior for these items.
 
@@ -110,7 +110,7 @@ The following files were used:
 
 ### Market Basket Analysis
 
-![Association Rules](images/association_rules.png)
+🔗[Association Rules](images/association_rules.png)
 
 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/Instacart_Market_Basket_Analysis/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
